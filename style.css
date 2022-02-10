@@ -1,0 +1,15 @@
+body{
+    background-color: bisque;
+    font-size: 25px;
+}
+
+h1{
+    text-align: center;
+    
+}
+
+p{
+    text-align: left;
+}
+
+a{padding: 30px;}
